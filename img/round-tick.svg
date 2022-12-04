@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Check</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Highlight" transform="translate(0.000000, -2.000000)">
+            <g id="Check" transform="translate(0.000000, 2.000000)">
+                <g id="Group-24">
+                    <circle id="Oval" fill="#8DDCFF" cx="14.9999991" cy="14.9999991" r="14.9999991"></circle>
+                    <polyline id="Path-2" stroke="#FFFFFF" stroke-width="1.5975" stroke-linecap="round" stroke-linejoin="round" points="7.99999952 15.1717174 13.0369335 20.2086514 21.6455857 9.59999943"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
